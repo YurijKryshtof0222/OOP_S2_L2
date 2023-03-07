@@ -43,6 +43,7 @@ void main()
 	{
 		cout << arr[i] << " ";
 	}
+	cout << endl;
 
 	system("pause");
 }
